@@ -1,8 +1,8 @@
 ﻿detalles del trabajo
  ```mermaid
 graph TD;
-    A-->B;
-    w-->C;
+    si-->no;
+    si-->C;
     B-->D;
     C-->D;
 ```
