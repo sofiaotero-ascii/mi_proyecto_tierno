@@ -1,10 +1,13 @@
 detalles del trabajo
 ```mermaid
-graph TD;
-    me_paso_horas_buscando-->no_entiendo_nada;
-    no_entiendo_nada-->descanso;
-    descanso-->todo_estaba_en_mi_mente;
-    style me_paso_horas_buscando fill:#FADADD,stroke:#333,stroke-width:2px;
-    style no_entiendo_nada fill:#FADADD,stroke:#333,stroke-width:2px;
-    style descanso fill:#FADADD,stroke:#333,stroke-width:2px;
+journey
+    title Proceso en el trabajo
+    section Etapa inicial
+      Leer pdf: 5: Me
+      Intentar que funcione: 3: Me
+      Ver que no funciona: 1: Me
+    section Etapa posterior
+      Solo quedan unos detalles: 5: Me
+      No se personalizarlo más: 3: Me
+
  ```
