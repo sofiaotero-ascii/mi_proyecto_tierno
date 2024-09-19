@@ -1,4 +1,7 @@
 ﻿detalles del trabajo
-   ````mermaid
+```mermaid
 graph TD;
-  Me paso horas buscando-->no encuentro nada
+    me paso horas buscando-->no entiendo nada;
+    no entiendo nada-->descanso;
+    descanso-->descubro que todo estaba en mi mente;
+```
