@@ -1,4 +1,9 @@
 :ram:Detalles y proceso del trabajo:
+> [!IMPORTANT]
+> Muchos datos pueden ser añdidos al proceso
+- [x] paso I
+- [ ] paso II
+- [ ] paso III 🌷:
 ```mermaid
 journey
     title Proceso en el trabajo
