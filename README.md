@@ -1,4 +1,4 @@
-Detalles y proceso del trabajo:
+:ram:Detalles y proceso del trabajo:
 ```mermaid
 journey
     title Proceso en el trabajo
@@ -14,5 +14,3 @@ journey
         Consigo un diseño diferente: 5: Me
 
  ```
-![Uploading para proyecto.jpg…]()
-
