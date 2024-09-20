@@ -1,4 +1,4 @@
-detalles del trabajo
+Detalles y proceso del trabajo:
 ```mermaid
 journey
     title Proceso en el trabajo
