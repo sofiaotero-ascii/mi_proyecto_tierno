@@ -1,4 +1,10 @@
 # PROYECTO TIERNO PARA COD
+**Integrantes**
+![integrantes del proyecto](https://github.com/sofiaotero-ascii/mi_proyecto_tierno/blob/main/para%20proyecto.jpg)
+
+
+
+
 :ram:**Detalles y proceso del trabajo:**
 > [!IMPORTANT]
 > Muchos datos pueden ser añdidos al proceso
