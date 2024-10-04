@@ -11,4 +11,10 @@
 > Muchos datos pueden ser añdidos al proceso
 - [ ] paso III 🌷:
 ```mermaid
+journey
+    title Proceso en el trabajo
+    section Etapa inicial
+      Leer pdf: 5: Me
+      Intentar que funcione: 3: Me
+      Ver que no funciona: 1: Me
 
