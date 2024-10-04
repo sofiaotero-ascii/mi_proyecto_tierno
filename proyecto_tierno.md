@@ -9,5 +9,6 @@
 ### Detalles y proceso del trabajo :ram:
 > [!IMPORTANT]
 > Muchos datos pueden ser añdidos al proceso
-
+- [ ] paso III 🌷:
+```mermaid
 
