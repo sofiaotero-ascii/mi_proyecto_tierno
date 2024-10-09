@@ -33,3 +33,13 @@ journey
         Consigo un diseño diferente: 5: Me
 
  ```
+```java
+class SylvanianCharacter {
+    String name, species, family;
+
+    SylvanianCharacter(String name, String species, String family) {
+        this.name = name;
+        this.species = species;
+        this.family = family;
+    }
+```
